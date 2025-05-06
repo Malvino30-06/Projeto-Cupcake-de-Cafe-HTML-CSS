@@ -1,5 +1,3 @@
-Aqui está um *README.md* bem estruturado para o seu projeto de receita:
-
 ```markdown
 # 🍰 Página de Receita | Cupcake de Café com Chantilly
 
