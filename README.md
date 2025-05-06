@@ -3,7 +3,7 @@ Aqui está um *README.md* bem estruturado para o seu projeto de receita:
 ```markdown
 # 🍰 Página de Receita | Cupcake de Café com Chantilly
 
-## ☕ Sobre o Projeto
+## ☕ Sobre o Projeto 
 
 Este projeto foi criado como uma forma de **praticar HTML e CSS**, explorando conceitos de estilização e estruturação de páginas web. A página apresenta uma deliciosa receita de **Cupcake de Café com Chantilly**, perfeita para acompanhar um bom café.  
 
@@ -23,11 +23,17 @@ O projeto está dividido da seguinte maneira:
 ```
 📁 Página de Receita
 │── 📂 img (Imagens utilizadas no projeto)
+
 │── 📜 index.html (Estrutura da página)
+
 │── 📜 style.css (Estilos aplicados)
+
 │── 📜 README.md (Este arquivo)
+
 │── 📜 settings.json (Configurações do editor)
+
 │── 📜 extensions.json (Extensões recomendadas)
+
 ```
 
 ## 🚀 Como Visualizar
@@ -50,8 +56,3 @@ O projeto está dividido da seguinte maneira:
 Este projeto foi desenvolvido **apenas para fins de aprendizado e prática**, sem intenção de uso comercial. Se tiver sugestões ou quiser compartilhar melhorias, fique à vontade! 🚀
 
 ---
-
-Se precisar de ajustes ou quiser adicionar mais informações, me avise! 🍰😊
-```
-
-Esse *README.md* organiza bem as informações e dá um toque profissional ao seu projeto! Se quiser personalizar algum detalhe, é só me falar. 🚀☕
